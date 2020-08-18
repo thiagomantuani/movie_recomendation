@@ -11,7 +11,6 @@ import googletrans
 
 logger = logging.getLogger(__name__)
 
-
 def get_data_from_imdb(urls,total):
        
     
