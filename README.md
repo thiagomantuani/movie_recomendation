@@ -18,7 +18,7 @@ Recomendação de filmes do site imdb:
   <li>Flask==1.1.2</li>
   <li>googletrans==3.0.0</li>
   <li>gunicorn==20.0.4</li>
-  <li>h11==0.9.0<li>
+  <li>h11==0.9.0</li>
   <li>h2==3.2.0</li>
   <li>hpack==3.0.0</li>
   <li>hstspreload==2020.8.12</li>
