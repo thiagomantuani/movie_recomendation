@@ -8,7 +8,7 @@ Recomendação de filmes do site imdb:
   <li>Aplicação do modelo LightGBM</li>  
 </ul>
 
-<h3> Requiriments</h3>
+<h3> Requirements</h3>
 <ul>
   <li>beautifulsoup4==4.9.1</li>
   <li>bs4==0.0.1</li>
